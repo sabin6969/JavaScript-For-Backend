@@ -1,0 +1,14 @@
+JavaScript is high level, general purpose, interpreted and dynamically typed programming language developed by Brendan Eich in 1995.
+
+He Developed JS when he was working for Netescape navigator.
+
+JavaScript was initially developed to serve as client side scripting language but over the period of time js has evolved a lot and it is now being used for Frontend development, backend development, mobile app development and many more.
+
+ECMAScript is a standardization that defines how a scripting language must behave.
+
+JavaScript is backward compatible but not forward compatible.
+
+Forward compatibility in JS can be achieved with the help Transpiler.
+
+Transpiler is a tool which is used for source to source conversion.
+
